@@ -1050,6 +1050,10 @@ section .container {
   background: #15bb62;
 }
 
+.certification-img{
+  width: 100%;
+  height: 20%;
+}
 @-webkit-keyframes animate-loading {
   0% {
     transform: rotate(0deg);
