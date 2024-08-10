@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\dilaz-insaat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\dilaz-insaat.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\syndicate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\syndicate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\news.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\kok-fistik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects\\kok-fistik.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "syndicate.html",
+              "DocumentMoniker": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\syndicate.html",
+              "RelativeDocumentMoniker": "projects\\syndicate.html",
+              "ToolTip": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\syndicate.html",
+              "RelativeToolTip": "projects\\syndicate.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-03T13:18:03.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "news.html",
+              "DocumentMoniker": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\news.html",
+              "RelativeDocumentMoniker": "projects\\news.html",
+              "ToolTip": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\news.html",
+              "RelativeToolTip": "projects\\news.html",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-03T11:41:40.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kok-fistik.html",
+              "DocumentMoniker": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\kok-fistik.html",
+              "RelativeDocumentMoniker": "projects\\kok-fistik.html",
+              "ToolTip": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\kok-fistik.html",
+              "RelativeToolTip": "projects\\kok-fistik.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-03T11:41:40.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dilaz-insaat.html",
+              "DocumentMoniker": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\dilaz-insaat.html",
+              "RelativeDocumentMoniker": "projects\\dilaz-insaat.html",
+              "ToolTip": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\projects\\dilaz-insaat.html",
+              "RelativeToolTip": "projects\\dilaz-insaat.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-28T13:23:36.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\desktop\\COOP\\githupPersonalPage\\alperenpolatt.github.io\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAOABAAAAAAAAAAASwPIBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-28T13:22:24.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
